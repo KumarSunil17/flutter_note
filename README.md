@@ -1,6 +1,6 @@
 # flutter_note
 
-A new Flutter project.
+A new Flutter project to test android, web, macos, windows, web.
 
 ## Getting Started
 
